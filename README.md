@@ -36,13 +36,6 @@
 
 ---
 
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PSRajput3377&theme=dracula&no-frame=false&row=1&column=6" alt="Trophy" />
-</p>
-
----
-
 ### ✍️ Quote of the Day
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quote of the Day" />
@@ -62,7 +55,11 @@
 
 ---
 
-### 🎨 Creative Corner
+### 🎨 Creative Corner: Developer's Vibe  
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsYm5GxTkRkRIIA/giphy.gif" width="300" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Code%2C+Eat%2C+Sleep%2C+Repeat!;Fueled+by+Coffee+%26+Curiosity.;Building+the+Future+One+Line+at+a+Time.;Turning+Ideas+into+Reality.">
 </p>
