@@ -2,7 +2,7 @@
 <h3 align="center">3rd Year CSE Student at SJCE (JSSSTU)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Tech+Explorer+%7C+Developer+%7C+Learner;Always+Open+to+Collaboration+🤝;singh+ji+%7C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Tech+Explorer+%7C+Developer+%7C+Learner;Always+Open+to+Collaboration+🤝;love+to+contribute+%7C" alt="Typing SVG" />
 </p>
 
 ---
