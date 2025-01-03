@@ -8,6 +8,7 @@
 ---
 
 ### 🌟 About Me
+- I am currently working on Placement Portal of jss science and technology university.
 - 🚀 I’m currently learning **MERN Stack Development & Machine Learning**.
 - 📫 Feel free to reach out to me at **[prashantrathour63@gmail.com](mailto:prashantrathour63@gmail.com)**.
 - 💡 **Fun Fact**: I'm passionate about exploring how technology can solve real-world problems!
