@@ -69,5 +69,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Code%2C+Eat%2C+Sleep%2C+Repeat!;Fueled+by+Coffee+%26+Curiosity.;Building+the+Future+One+Line+at+a+Time.;Turning+Ideas+into+Reality." alt="Dev Vibes Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=700&lines=Code%2C+Eat%2C+Sleep%2C+Repeat!;Fueled+by+Coffee+%26+Curiosity.;Building+the+Future+One+Line+at+a+Time.;Turning+Ideas+into+Reality." alt="Dev Vibes Typing SVG" />
 </p>
+
