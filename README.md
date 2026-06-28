@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm <span style="color:#36BCF7">Prashant Kumar Singh</span></h1>
-<h3 align="center">🚀 3rd Year CSE Student | SJCE, JSSSTU</h3>
+<h3 align="center">🚀 CSE Student | SJCE, JSSSTU</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Tech+Explorer+%7C+Developer+%7C+Lifelong+Learner;Building+Projects+that+Matter.;Let%27s+Innovate+Together+🤝;" alt="Typing SVG" />
